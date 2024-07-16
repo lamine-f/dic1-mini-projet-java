@@ -36,7 +36,7 @@ L'architecture du projet est organisée comme suit :
 1. Clonez ce repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
+   git clone https://github.com/lamine-f/dic1-mini-projet-java.git
    ```
 
 2. Compilez le projet en utilisant Java :
