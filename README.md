@@ -1,3 +1,3 @@
-# Documentation du Projet Syntax Analysis Expression Evaluation
+# Documentation du Projet Analyse et évaluation d’expressions arithmétiques
 
-Cette branche contient la documentation détaillée du projet Java "Analyse et évaluation d’expressions arithmétiques".
+Cette branche contient la documentation détaillée du projet.
