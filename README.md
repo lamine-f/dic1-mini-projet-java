@@ -42,15 +42,25 @@ L'architecture du projet est organisée comme suit :
 2. Compilez le projet en utilisant Java :
 
    ```bash
-   javac syntaxanalysisexpressionevaluation/*.java
+   javac Main.java
    ```
 
 ## Utilisation
 
-1. Exécutez la session principale pour évaluer les expressions :
+1. Exécutez la classe principale pour évaluer les expressions :
 
    ```bash
-   java syntaxanalysisexpressionevaluation.Session
+   java Main
    ```
 
 2. Suivez les instructions pour entrer des expressions à évaluer.
+
+
+## Prérequis
+
+- Java JDK 8 ou supérieur.
+
+
+## Contact
+
+Pour toute question ou suggestion, contactez [Mouhamed Lamine Faye](mailto:persoitlamine42@gmail.com).
