@@ -1,4 +1,4 @@
-# Projet Java : Syntax Analysis Expression Evaluation
+# Projet Java : Analyse et évaluation d’expressions arithmétiques
 
 Ce projet implémente une application Java pour l'analyse syntaxique et l'évaluation d'expressions mathématiques simples.
 
