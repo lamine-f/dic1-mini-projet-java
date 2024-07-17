@@ -2,7 +2,7 @@ Pour consulter la documentation, suivez ces étapes :
 
 ### Naviguer vers le Répertoire de Documentation
 
-Utilisez votre explorateur de fichiers pour vous rendre dans le répertoire où la documentation a été générée. Dans notre exemple, ce serait le répertoire `javadocs` se trouvant dans `dic1-mini-projet-java/docs/javadocs`.
+Utilisez votre explorateur de fichiers pour vous rendre dans le répertoire où la documentation a été générée. Dans notre exemple, ce serait le répertoire `javadocs` se trouvant le répertoire `dic1-mini-projet-java/docs/`.
 
 ### Ouvrir le Fichier `index.html`
 
