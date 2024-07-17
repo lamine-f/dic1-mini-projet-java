@@ -61,6 +61,7 @@ L'architecture du projet est organisée comme suit :
 - Java JDK 8 ou supérieur.
 
 
-## Contact
 
-Pour toute question ou suggestion, contactez [Mouhamed Lamine Faye](mailto:persoitlamine42@gmail.com).
+[//]: # (## Contact)
+[//]: # (Pour toute question ou suggestion, contactez [Mouhamed Lamine Faye]\(mailto:persoitlamine42@gmail.com\).)
+
