@@ -1,7 +1,7 @@
 package syntaxanalysisexpressionevaluation;
 
 /**
- * Classe utilitaire pour vérifier différents caractères en tant qu'opérateurs ou chiffres.
+ * Classe utilitaire pour vérifier différents caractères en tant que symbole terminal.
  */
 public class Grammar {
 
