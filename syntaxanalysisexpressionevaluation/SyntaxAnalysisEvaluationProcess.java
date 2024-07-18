@@ -137,16 +137,10 @@ public class SyntaxAnalysisEvaluationProcess {
      * @return La valeur numérique du nombre lu
      */
     int number() {
-        boolean isFirst = true;
         int result = 0;
         try {
             while (Grammar.isDigit(Reader.getCurrentCharacter())) {
-                if (isFirst) {
-                    result = Reader.getCurrentCharacter() - '0';
-                    isFirst = false;
-                } else {
-                    result = result * 10 + (Reader.getCurrentCharacter() - '0');
-                }
+                result = result * 10 + (Reader.getCurrentCharacter() - '0');
                 Reader.readNext();
             }
             return result;
